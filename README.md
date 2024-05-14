@@ -1,6 +1,6 @@
 # IT Certifications
 
-## 🛡️ Certified in Cyber Security
+## 🛡️ Certified in Cyber Security(CC)
 - Issued by [ISC²](https://www.isc2.org/)
 - [Show Credential](https://www.credly.com/badges/b1c868e3-8ce5-4156-902c-fc16c0c904eb/linked_in_profile)
 
